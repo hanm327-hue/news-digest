@@ -1,0 +1,4 @@
+site/
+.claude/
+__pycache__/
+*.pyc
